@@ -41,8 +41,8 @@ Scripts in `code/` are numbered in the order they should be run:
 
 1. `01_descriptor_distribution.py` — Descriptor distribution (Fig. 2)
 2. `02_rf_xgb_training.py` — Random Forest and XGBoost training
-3. `03_svm_5fold.py` — SVM 5-fold cross-validation
-4. `04_knn_5fold.py` — KNN 5-fold cross-validation
+3. `03_knn_5fold.py` — KNN 5-fold cross-validation
+4. `04_svm_5fold.py` — SVM 5-fold cross-validation
 5. `05_nb_5fold.py` — Naive Bayes 5-fold cross-validation
 6. `06_stacking.py` — Stacking ensemble
 7. `07_voting.py` — Voting ensemble
@@ -50,19 +50,19 @@ Scripts in `code/` are numbered in the order they should be run:
 9. `09_confusion_heatmap.py` — Confusion matrices and disagreement heatmap (Figs. 5–6)
 10. `10_gnn_5fold.py` — Base GNN 5-fold training
 11. `11_dtrl_gnn_5fold.py` — DTRL-GNN 5-fold training
-12. `12_dtrl_representation_analysis.py` — DTRL subspace analysis
-13. `13_substructure_mmp_analysis.py` — Substructure enrichment + MMP + attention correlation
-14. `14_mmp_visualization.py` — MMP visualization (Fig. 12)
-15. `15_gnn_attention_visualization.py` — GNN attention mapping (Fig. 9)
+12. `13_substructure_mmp_analysis.py` — Substructure enrichment + MMP + attention correlation (Table 3, Figs. 10–12 data)
+13. `14_mmp_visualization.py` — MMP visualization (Fig. 12)
+14. `15_gnn_attention_visualization.py` — GNN attention mapping (Fig. 9)
+15. `13_shap_barplot.py` — SHAP plots (Figs. 7–8)
 16. `16_shap_analysis.py` — SHAP value computation
-17. `17_shap_barplot.py` — SHAP plots (Figs. 7–8)
+17. `17_dtrl_representation_analysis.py` — DTRL subspace analysis
 18. `18_toxproto.py` — ToxProto prototype discovery
 19. `19_toxproto_annotation.py` — ToxProto substructure annotation
 20. `20_toxproto_visualization.py` — ToxProto visualization (Fig. 13)
 21. `21_conformal_prediction.py` — Conformal prediction
 22. `22_conformal_visualization.py` — Conformal prediction visualization (Fig. 14)
-To reproduce all figures and tables from scratch, run the scripts in numerical order:
 
+To reproduce all figures and tables from scratch, run the scripts in numerical order:
 bash
 
 cd code
