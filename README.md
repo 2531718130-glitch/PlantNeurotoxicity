@@ -91,6 +91,10 @@ If you use this code or data in your work, please cite:
 
 Ma H, Ji Z, Han W. Interpretable Machine Learning for Neurotoxicity Risk Prioritization of Plant-Derived Environmental Contaminants: The Pyrido[2,3-d]pyrimidine Toxicophore. Environ. Sci. Technol. (submitted).
 
+The archived version of this repository is available on Zenodo:
+
+> https://doi.org/10.5281/zenodo.22811605
+
 License
 This project is licensed under the MIT License. See LICENSE for details.
 
