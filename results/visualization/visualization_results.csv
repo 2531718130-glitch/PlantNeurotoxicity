@@ -1,0 +1,11 @@
+smiles,label,prob,top3_atoms,path
+COc1cc(N)c(Cl)cc1C(=O)CCC1CCN(CC2CCNCC2)CC1,1,0.9767347217363327,"[np.int64(7), np.int64(6), np.int64(17)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\POS_p0.977_COc1cc(N)c(Cl)cc1C(=O)CCC1CCN(.png
+C#Cc1ccc(-n2ccc(C3CN(C(=O)OC(C(F)(F)F)C(F)(F)F)C3)n2)cc1,1,0.9746089334009176,"[np.int64(24), np.int64(19), np.int64(20)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\POS_p0.975_C#Cc1ccc(-n2ccc(C3CN(C(=O)OC(C.png
+O=C(c1ccc2c(ccn2-c2ccc(F)cc2)c1)N1CC(N2CCN(C(=O)c3nccs3)CC2)C1,1,0.9738255843730556,"[np.int64(31), np.int64(27), np.int64(30)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\POS_p0.974_O=C(c1ccc2c(ccn2-c2ccc(F)cc2)c.png
+O=C(OC(C(F)(F)F)C(F)(F)F)N1CC2C(C1)C2c1ccn(-c2ccc(F)cc2)n1,1,0.9734731612373844,"[np.int64(5), np.int64(6), np.int64(7)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\POS_p0.973_O=C(OC(C(F)(F)F)C(F)(F)F)N1CC2.png
+CCCCCCC1(c2cc(O)c3c(c2)OC(C)(C)C2CC=C(C)CC32)CCCC1,1,0.9722915339179631,"[np.int64(0), np.int64(1), np.int64(2)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\POS_p0.972_CCCCCCC1(c2cc(O)c3c(c2)OC(C)(C.png
+N#CC(=Cc1cccs1)c1nc2ccccc2[nH]1,0,0.09308018749952066,"[np.int64(8), np.int64(7), np.int64(4)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\NEG_p0.093_N#CC(=Cc1cccs1)c1nc2ccccc2[nH].png
+Cc1ccc(C=C(C#N)c2nc3ccccc3[nH]2)s1,0,0.0944949230453202,"[np.int64(18), np.int64(4), np.int64(1)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\NEG_p0.094_Cc1ccc(C=C(C#N)c2nc3ccccc3[nH].png
+Cc1ccc(-c2cc3nc(C)cc(NCc4ccco4)n3n2)cc1,0,0.09801178305050275,"[np.int64(20), np.int64(19), np.int64(6)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\NEG_p0.098_Cc1ccc(-c2cc3nc(C)cc(NCc4ccco4.png
+CCOCC(=O)Nc1nc2ccc(C)cc2s1,0,0.09927098116954809,"[np.int64(16), np.int64(0), np.int64(15)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\NEG_p0.099_CCOCC(=O)Nc1nc2ccc(C)cc2s1.png
+Cc1nsc2[nH]cc(C(=O)O)c(=O)c12,0,0.09933095555328421,"[np.int64(3), np.int64(2), np.int64(4)]",C:\Users\mahe\PycharmProjects\PlantNeurotoxicity\results\visualization\NEG_p0.099_Cc1nsc2[nH]cc(C(=O)O)c(=O)c12.png
